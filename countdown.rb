@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown
+def countdown = 10
    while countdown < 10
      return "#{number}"
    countdown -= 1
