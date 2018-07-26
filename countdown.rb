@@ -1,4 +1,7 @@
 #write your code here
 
-def countdown
+def countdown(10)
+   if while 
+   
+  else return "HAPPY NEW YEAR!"
 end
