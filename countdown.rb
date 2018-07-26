@@ -1,9 +1,9 @@
 #write your code here
 
-def countdown (number)
-  number = 10 -= 1
-   if while 10 > 10
+def countdown=10
+   if while countdown < 10
      return "#{number}"
+   countdown -= 1
   else return "HAPPY NEW YEAR!"
 end
 end
